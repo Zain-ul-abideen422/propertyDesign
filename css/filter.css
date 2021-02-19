@@ -1,0 +1,24 @@
+.main-section h1{
+    font-size:45px;
+}
+.select-part-section{
+    background: #fff;
+    position: relative;
+    left:50%;
+    transform: translateX(-50%);
+    border-radius: 3px 0px 0px 3px !important;
+}
+.select-part-section select{
+    background: #fff;
+}
+.select-part-section .form-control{
+    border:1px solid #fff;
+    box-shadow: none;
+}
+.select-part-section .form-control option{
+    border:1px solid #fff;
+    padding:20px !important;
+}
+.search-btn{
+    padding:10px;
+}
